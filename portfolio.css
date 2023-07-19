@@ -1,0 +1,55 @@
+.Links{
+float: right;    
+}
+.myname{
+    font-style: italic; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 2em;  
+    }
+    header{
+        box-shadow: 0 2px 4px -2px  black;
+        display: block;  
+        }
+        main{
+            background-color: gray;
+        box-shadow: 0 0 12px -2px black   
+        } 
+html{
+background-color: beige;    
+}        
+h1{
+text-align: center;
+font-style: oblique;
+font-size: 3em;  
+} 
+.project1{
+    box-shadow: 0 2px 4px -2px  black ; 
+    display: inline-block;   
+} 
+.project2{
+    box-shadow: 0 2px 4px -2px  black ; 
+    display: inline-block;    
+}
+.project3{
+    box-shadow: 0 2px 4px -2px  black ; 
+    display: inline-block;    
+}         
+h2{
+text-align: center; 
+font-size: 2em;   
+}
+.coding1{
+height: 200px; 
+width: auto;   
+}
+.coding2{
+    height: 200px; 
+    width: auto; 
+}
+.coding3{
+    height: 200px; 
+    width: auto;    
+}
+p{
+font-size: 1.5em;    
+}

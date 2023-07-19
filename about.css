@@ -1,0 +1,44 @@
+.Links{
+float: right;    
+}
+.myname{
+    font-style: italic; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 2em;  
+    }
+    header{
+        box-shadow: 0 2px 4px -2px  black;
+        display: block;  
+        }
+        main{
+            background-color: gray;
+        box-shadow: 0 0 12px -2px black   
+        }
+.image1{
+width: 300px; 
+height: auto;   
+}
+.image2{
+width:400px ;
+height: auto;    
+}
+.hobby1{
+box-shadow: 0 2px 4px -2px  black ; 
+display: inline-block;   
+}
+h1{
+float: center;
+font-size: 2em;
+font-style: oblique;    
+}
+h2{
+float: center;
+font-size: 1.5em;    
+}
+p{
+font-size: 1.5em; 
+font-family: 'Times New Roman', Times, serif;  
+}
+html{
+background-color: beige;    
+}

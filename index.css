@@ -1,0 +1,31 @@
+main{
+    background-color: gray;
+box-shadow: 0 0 12px -2px black;
+text-align: center; 
+
+}
+.Links {
+float: right;    
+}
+header{
+box-shadow: 0 2px 4px -2px  black;
+display: block;  
+}
+.myname{
+font-style: italic; 
+font-family: 'Times New Roman', Times, serif; 
+font-size: 2em;  
+}
+h1, h2{
+font-weight: 200;
+font-family: 'Times New Roman', Times, serif;
+font-size: 4em;
+color: black;}
+.quote{
+font-family: cursive;
+color: black;
+font-size: 4em;    
+}
+html{
+background-color:beige;    
+}
