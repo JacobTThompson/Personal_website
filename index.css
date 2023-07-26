@@ -37,3 +37,14 @@ background-color:beige;
 .quotesample:hover{
     rotate: 360deg;
 }
+.CSS-Flex-website-practice{
+display: inline-flexbox;
+background-color: beige;    
+}
+.CSS-Flex-website-practice> div{
+font-style: oblique;
+margin: 10px; 
+padding: 10px;  
+border-color: black;
+font-size: 1.3em;
+}

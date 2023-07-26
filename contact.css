@@ -33,4 +33,10 @@ text-align: right;
 img{
 height: 200px;
 height: 300px;   
-}          
+} 
+@media (max-width: 1024px){
+html{
+margin: auto !important;
+padding: auto !important;  
+}    
+}         

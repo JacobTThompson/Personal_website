@@ -53,3 +53,9 @@ width: auto;
 p{
 font-size: 1.5em;    
 }
+section:nth-of-type(odd)> img{
+float: left;    
+}
+section:nth-of-type(even)> img{
+float: right;    
+}
