@@ -1,0 +1,36 @@
+.Links{
+float: right;    
+}
+.myname{
+    font-style: italic; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 2em;}
+    header{
+        box-shadow: 0 2px 4px -2px  black;
+        display: block;  
+        }
+        main{
+            background-color: gray;
+        box-shadow: 0 0 12px -2px black;
+        text-align: center;}  
+form{
+font-size: 2em;
+font-style: italic;    
+} 
+input{
+font-size: 60%;    
+} 
+html{
+background-color: beige;    
+}
+.medialink{
+width: 50px; 
+height: 50px;   
+}
+footer{
+text-align: right;    
+}
+img{
+height: 200px;
+height: 300px;   
+}          

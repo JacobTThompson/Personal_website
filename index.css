@@ -2,7 +2,6 @@ main{
     background-color: gray;
 box-shadow: 0 0 12px -2px black;
 text-align: center; 
-
 }
 .Links {
 float: right;    
@@ -28,4 +27,13 @@ font-size: 4em;
 }
 html{
 background-color:beige;    
+}
+.quotesample{
+    transition:
+      width 2s,
+      height 2s,
+      rotate 2s;
+}
+.quotesample:hover{
+    rotate: 360deg;
 }
