@@ -42,3 +42,9 @@ font-family: 'Times New Roman', Times, serif;
 html{
 background-color: beige;    
 }
+@media (max-width: 1024px){
+    html{
+    margin: auto !important;
+    padding: auto !important;  
+    }    
+    }   

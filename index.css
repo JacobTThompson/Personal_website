@@ -48,3 +48,9 @@ padding: 10px;
 border-color: black;
 font-size: 1.3em;
 }
+@media (max-width: 1024px){
+    html{
+    margin: auto !important;
+    padding: auto !important;  
+    }    
+    }   
